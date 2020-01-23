@@ -1,0 +1,24 @@
+.historia {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.historia h2 {
+    color: white;
+}
+
+.fotos {
+    margin: 10px 0;
+}
+
+.foto {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
+
+.foto img {
+    width: 100%;
+}
